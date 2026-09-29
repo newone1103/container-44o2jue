@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Sep 29 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Créé à l'aide de Colab ([@newone1103](https://github.com/newone1103))
+
+#### Authors: 1
+
+- [@newone1103](https://github.com/newone1103)
+
+---
+
 # v0.0.1 (Sun Aug 04 2024)
 
 :tada: This release contains work from a new contributor! :tada:
